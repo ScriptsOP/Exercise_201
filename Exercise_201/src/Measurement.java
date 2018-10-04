@@ -37,4 +37,9 @@ public class Measurement {
     public int getVelAllowed() {
         return velAllowed;
     }
+    
+    @Override
+    public String toString(){
+        
+    }
 }
